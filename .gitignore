@@ -1,0 +1,8 @@
+*.pdf
+*.docx
+*.~lock*
+*.lock
+
+.venv/
+__pycache__/
+.pytest_cache/
